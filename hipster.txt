@@ -6,3 +6,7 @@ Keytar copper mug cornhole, gochujang succulents intelligentsia etsy hashtag meh
 shion axe four dollar toast jianbing. Cold-pressed helvetica PBR&B direct trade messenger bag hashtag lyft bicycle rights shoreditch +1 bushwick disrupt butcher.
 
 Man bun succulents pitchfork paleo hashtag ramps hell of disrupt cred art party whatever dee
+
+git commit -m
+
+the quick brown fox jummps over the lazy doggy
